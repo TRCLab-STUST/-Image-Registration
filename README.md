@@ -7,8 +7,8 @@
 | -------- | -------- |
 | [config](https://github.com/wenwen357951/-Image-Registration/blob/master/config.py) | 存放路徑的配置檔案 |
 | [main](https://github.com/wenwen357951/-Image-Registration/blob/master/main.py) | 專案運行的主程式進入點 |
-| [exe](https://github.com/wenwen357951/-Image-Registration/blob/master/exe.py) | 根據SimpleITK產生出的tfm校準檔案執行偏移 (deprecated) |
-| [reg](https://github.com/wenwen357951/-Image-Registration/blob/master/reg.py) | 使用SimpleITK校準圖片輸出tfm校準檔 (deprecated) |
+| ~~[exe](https://github.com/wenwen357951/-Image-Registration/blob/master/exe.py)~~ | ~~根據SimpleITK產生出的tfm校準檔案執行偏移~~ (deprecated) |
+| ~~[reg](https://github.com/wenwen357951/-Image-Registration/blob/master/reg.py)~~ | ~~使用SimpleITK校準圖片輸出tfm校準檔~~ (deprecated) |
 | [reg_itk](https://github.com/wenwen357951/-Image-Registration/blob/master/reg_itk.py) | 使用ITK校準圖片並輸出移動後圖片 |
 
 ## 校準方式
