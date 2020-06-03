@@ -17,5 +17,5 @@ Ref: [https://itk.org/ITKExamples/src/Registration/Common/Perform2DTranslationRe
 
 ### Mean Square Error
 在統計學中，均方誤差是對於無法觀察的參數<img src="https://latex.codecogs.com/svg.latex?\theta" title="\theta" />的一個估計函數<img src="https://latex.codecogs.com/gif.latex?\mathit{T}" title="\mathit{T}" />，其定義為：
-<div style="text-align:center"><img align=center src="https://latex.codecogs.com/svg.latex?\mathrm{MSE(\mathit{T})=E((\mathit{T&space;-&space;\theta&space;})^2)}" title="\mathrm{MSE(\mathit{T})=E((\mathit{T - \theta })^2)}" /></div>
+<div style="text-align:center"><img align=center src="https://latex.codecogs.com/svg.latex?\mathrm{MSE(\mathit{T})=E((\mathit{T&space;-&space;\theta&space;})^2)}" title="\mathrm{MSE(\mathit{T})=E((\mathit{T - \theta })^2)}" /></div><br>
 MSE的主要計算方式是將兩影像的每一個像素點進行相減，再將其平方加總後，取平均值來獲取MSE值。
